@@ -1,0 +1,32 @@
+body{
+    background-color: #DCF2F1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+}
+h1{
+    font-size: 100px;
+    color: #0F1035;
+}
+p{
+    font-size: 25px;
+    color: #0F1035;
+}
+.c1{
+    padding: 10px;
+    background-color: #7FC7D9;
+}
+.c2{
+    padding: 10px;
+    background-color: #7FC7D9;
+}
+.c3{
+    padding: 10px;
+    background-color: #7FC7D9;
+}

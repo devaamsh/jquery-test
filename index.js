@@ -1,0 +1,10 @@
+$(".c1").click(function(){
+    $("h1").slideUp(1000).slideDown(1000);
+    $("h1").css("color","#365486");
+});
+$(".c2").click(function(){
+    $("h1").fadeOut(1000).fadeIn(1000).css("color","#0F1035");
+});
+$(".c3").click(function(){
+    $("h1").hide(1000).show(1000).css("color","#365486");
+});
